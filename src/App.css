@@ -8,6 +8,8 @@
 
 .product-card {
   transition: transform 0.3s ease;
+  width: 65%;
+  height: 50%;
 }
 
 .product-card:hover {
@@ -15,7 +17,7 @@
 }
 
 .product-card .card-img-top {
-  height: 200px;
+  /* height: 200px; */
   object-fit: cover;
 }
 
