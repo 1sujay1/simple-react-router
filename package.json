@@ -14,7 +14,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/1sujay1/simple-react-router",
+  "homepage": "https://1sujay1.github.io/simple-react-router",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
