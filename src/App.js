@@ -18,7 +18,8 @@ export default function App() {
           <Route exact path="/about" element={<About />} />
           <Route exact path="/contact" element={<Contact />} />
           <Route exact path="/cart" element={<Cart />} />
-          <Route path="*" element={<NotFound />} />
+          <Route exact path="/simple-react-router" element={<ProductList />} />
+          <Route path="*" element={<ProductList />} />
         </Routes>
         <Footer />
       </div>
